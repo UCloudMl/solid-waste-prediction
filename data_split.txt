@@ -1,0 +1,28 @@
+boralasgamuwa_uc_2012-2018
+2012 Jan to 2018 Dec
+74 months
+70-30 split: 2016 May 01
+
+
+moratuwa_mc_2014-2018
+2015 Jan to 2018 Dec
+48 months
+70-30 split: 2017 Nov 01
+
+
+dehiwala_mc_2012-2018
+2012 Jan to 2015 Dec
+48 months
+70-30 split: 2015 Feb 01
+
+
+open_source_ballarat_daily_waste_2000_jul_2015_mar
+2001 Jan to 2011 Dec
+132 months92
+70-30 split: 2008 Sep 01
+
+
+open_source_austin_daily_waste_2003_jan_2021_jul
+2005 Jan to 2019 Dec
+180 months
+70-30 split: 2015 Jul 01

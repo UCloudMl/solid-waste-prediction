@@ -1,0 +1,22 @@
+# Intellij
+.idea
+
+# Python
+venv
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JupyterNotebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Project
+tmp/**/**
+!tmp/**/**/
+!tmp/**/**/imputed_data.csv
+.darts

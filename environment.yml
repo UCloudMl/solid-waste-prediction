@@ -1,0 +1,36 @@
+name: waste-prediction-project
+
+dependencies:
+  - python=3.7
+  - notebook
+  - jupyterlab
+  - ipywidgets
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - xgboost
+  - matplotlib
+  - matplotlib-label-lines
+  - plotly
+  - seaborn
+  - tqdm
+  - joblib
+  - tensorboard
+  - fbprophet
+  - lightgbm
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.3
+  - u8darts-all
+  - statsforecast
+  - pip
+  - pip:
+      - adtk
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
